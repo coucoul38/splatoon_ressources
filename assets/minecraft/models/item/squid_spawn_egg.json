@@ -1,0 +1,18 @@
+{
+    "parent": "minecraft:item/template_spawn_egg",
+    
+    "overrides": [
+        {
+            "predicate": 
+            {
+                "custom_model_data":385501
+            }, "model": "item/custom/orange/squid"
+        },
+        {
+            "predicate": 
+            {
+                "custom_model_data":385502
+            }, "model": "item/custom/blue/squid"
+        }
+    ]
+   }

@@ -1,0 +1,24 @@
+{
+    "credit": "Made by Coucoul38",
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/warped_fungus_on_a_stick"
+    },
+    "overrides":
+    [
+      {
+        "predicate":
+        {
+          "custom_model_data":385501
+        },
+        "model": "item/custom/orange/splattershot"
+      },
+      {
+        "predicate":
+        {
+          "custom_model_data":385502
+        },
+        "model": "item/custom/blue/splattershot"
+      }
+    ]
+  }

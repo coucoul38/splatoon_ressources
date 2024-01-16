@@ -1,0 +1,14 @@
+{
+  "splat_bomb_explosion": {
+    "sounds": [
+      "custom/splat_bomb_explosion_mono"]
+  },
+  "splat_bomb_landed": {
+    "sounds": [
+      "custom/splat_bomb_landed"]
+  },
+  "splat_bomb_launched": {
+    "sounds": [
+      "custom/splat_bomb_launched"]
+  }
+}
