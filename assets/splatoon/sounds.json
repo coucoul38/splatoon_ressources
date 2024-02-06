@@ -10,5 +10,13 @@
   "splat_bomb_launched": {
     "sounds": [
       "custom/splat_bomb_launched"]
+  },
+  "spray": {
+    "sounds": [
+      "custom/spray"]
+  },
+  "shot": {
+    "sounds": [
+      "custom/shot"]
   }
 }
